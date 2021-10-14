@@ -64,13 +64,3 @@ You can change running parameters in the run.sh.
 SWaT and WADI datasets can be requested from [iTrust](https://itrust.sutd.edu.sg/)
 
 
-# Citation
-If you find this repo or our work useful for your research, please consider citing the paper
-```
-@inproceedings{Deng2021GDN,
-  title={Graph Neural Network-Based Anomaly Detection in Multivariate Time Series},
-  author={Deng, Ailin and Hooi, Bryan},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2021}
-}
-```
